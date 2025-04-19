@@ -50,6 +50,7 @@ Since this extension is not on the Chrome Web Store, you need to load it manuall
     * If there's any existing code in the `Code.gs` file (or similar default file), delete it completely.
     * Copy the entire script code provided below:
 
+    ```javascript
     // <--- COPY AND PASTE THE ENTIRE Code.gs SCRIPT BELOW THIS LINE --->
 
     /**
@@ -145,6 +146,7 @@ Focus on trends, anomalies, and key takeaways.`;
     }
 
     // <--- END OF Code.gs SCRIPT --->
+    ```
 
     * Paste the copied code into the script editor, replacing anything that was there.
 
@@ -231,6 +233,7 @@ Focus on trends, anomalies, and key takeaways.`;
     * `Code.gs` 파일(또는 유사한 기본 파일)에 기존 코드가 있다면 모두 삭제합니다.
     * 아래 제공된 전체 스크립트 코드를 복사합니다:
 
+    ```javascript
     // <--- 아래 스크립트 전체를 복사하여 붙여넣으세요 --->
 
     /**
@@ -326,6 +329,7 @@ Focus on trends, anomalies, and key takeaways.`;
     }
 
     // <--- Code.gs 스크립트 끝 --->
+    ```
 
     * 복사한 코드를 스크립트 편집기에 붙여넣어 기존 내용을 대체합니다.
 
